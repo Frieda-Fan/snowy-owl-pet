@@ -1,0 +1,12 @@
+# Local Codex metadata and generation intermediates
+.agents/
+.codex/
+work/
+outputs/
+tools/
+
+# Common local files
+Thumbs.db
+.DS_Store
+__pycache__/
+*.pyc

@@ -1,0 +1,411 @@
+{
+  "source": "C:\\Users\\18794\\Documents\\Codex\\2026-07-22\\new-chat\\outputs\\xuetuan-shortwing-v10\\spritesheet-xuetuan-shortwing-v10.webp",
+  "output": "C:\\Users\\18794\\Documents\\Codex\\2026-07-22\\new-chat\\outputs\\xuetuan-shortwing-v11\\spritesheet-xuetuan-shortwing-v11.webp",
+  "scale": 0.86,
+  "rows": [
+    1,
+    2
+  ],
+  "frames": [
+    {
+      "row": 1,
+      "col": 0,
+      "before_bbox": [
+        28,
+        37,
+        163,
+        171
+      ],
+      "after_bbox": [
+        38,
+        46,
+        154,
+        161
+      ],
+      "before_size": [
+        135,
+        134
+      ],
+      "after_size": [
+        116,
+        115
+      ],
+      "requested_scale": 0.86
+    },
+    {
+      "row": 1,
+      "col": 1,
+      "before_bbox": [
+        25,
+        40,
+        167,
+        168
+      ],
+      "after_bbox": [
+        35,
+        49,
+        157,
+        159
+      ],
+      "before_size": [
+        142,
+        128
+      ],
+      "after_size": [
+        122,
+        110
+      ],
+      "requested_scale": 0.86
+    },
+    {
+      "row": 1,
+      "col": 2,
+      "before_bbox": [
+        19,
+        40,
+        172,
+        167
+      ],
+      "after_bbox": [
+        30,
+        49,
+        162,
+        158
+      ],
+      "before_size": [
+        153,
+        127
+      ],
+      "after_size": [
+        132,
+        109
+      ],
+      "requested_scale": 0.86
+    },
+    {
+      "row": 1,
+      "col": 3,
+      "before_bbox": [
+        23,
+        40,
+        168,
+        166
+      ],
+      "after_bbox": [
+        33,
+        49,
+        158,
+        157
+      ],
+      "before_size": [
+        145,
+        126
+      ],
+      "after_size": [
+        125,
+        108
+      ],
+      "requested_scale": 0.86
+    },
+    {
+      "row": 1,
+      "col": 4,
+      "before_bbox": [
+        29,
+        45,
+        162,
+        163
+      ],
+      "after_bbox": [
+        38,
+        54,
+        152,
+        155
+      ],
+      "before_size": [
+        133,
+        118
+      ],
+      "after_size": [
+        114,
+        101
+      ],
+      "requested_scale": 0.86
+    },
+    {
+      "row": 1,
+      "col": 5,
+      "before_bbox": [
+        27,
+        43,
+        164,
+        165
+      ],
+      "after_bbox": [
+        36,
+        52,
+        154,
+        157
+      ],
+      "before_size": [
+        137,
+        122
+      ],
+      "after_size": [
+        118,
+        105
+      ],
+      "requested_scale": 0.86
+    },
+    {
+      "row": 1,
+      "col": 6,
+      "before_bbox": [
+        28,
+        40,
+        163,
+        168
+      ],
+      "after_bbox": [
+        38,
+        49,
+        154,
+        159
+      ],
+      "before_size": [
+        135,
+        128
+      ],
+      "after_size": [
+        116,
+        110
+      ],
+      "requested_scale": 0.86
+    },
+    {
+      "row": 1,
+      "col": 7,
+      "before_bbox": [
+        28,
+        38,
+        163,
+        170
+      ],
+      "after_bbox": [
+        38,
+        47,
+        154,
+        161
+      ],
+      "before_size": [
+        135,
+        132
+      ],
+      "after_size": [
+        116,
+        114
+      ],
+      "requested_scale": 0.86
+    },
+    {
+      "row": 2,
+      "col": 0,
+      "before_bbox": [
+        28,
+        37,
+        163,
+        171
+      ],
+      "after_bbox": [
+        38,
+        46,
+        154,
+        161
+      ],
+      "before_size": [
+        135,
+        134
+      ],
+      "after_size": [
+        116,
+        115
+      ],
+      "requested_scale": 0.86
+    },
+    {
+      "row": 2,
+      "col": 1,
+      "before_bbox": [
+        25,
+        40,
+        167,
+        168
+      ],
+      "after_bbox": [
+        35,
+        49,
+        157,
+        159
+      ],
+      "before_size": [
+        142,
+        128
+      ],
+      "after_size": [
+        122,
+        110
+      ],
+      "requested_scale": 0.86
+    },
+    {
+      "row": 2,
+      "col": 2,
+      "before_bbox": [
+        19,
+        40,
+        172,
+        167
+      ],
+      "after_bbox": [
+        30,
+        49,
+        162,
+        158
+      ],
+      "before_size": [
+        153,
+        127
+      ],
+      "after_size": [
+        132,
+        109
+      ],
+      "requested_scale": 0.86
+    },
+    {
+      "row": 2,
+      "col": 3,
+      "before_bbox": [
+        26,
+        40,
+        166,
+        165
+      ],
+      "after_bbox": [
+        36,
+        48,
+        156,
+        156
+      ],
+      "before_size": [
+        140,
+        125
+      ],
+      "after_size": [
+        120,
+        108
+      ],
+      "requested_scale": 0.86
+    },
+    {
+      "row": 2,
+      "col": 4,
+      "before_bbox": [
+        29,
+        45,
+        162,
+        163
+      ],
+      "after_bbox": [
+        38,
+        54,
+        152,
+        155
+      ],
+      "before_size": [
+        133,
+        118
+      ],
+      "after_size": [
+        114,
+        101
+      ],
+      "requested_scale": 0.86
+    },
+    {
+      "row": 2,
+      "col": 5,
+      "before_bbox": [
+        22,
+        43,
+        169,
+        165
+      ],
+      "after_bbox": [
+        32,
+        52,
+        158,
+        157
+      ],
+      "before_size": [
+        147,
+        122
+      ],
+      "after_size": [
+        126,
+        105
+      ],
+      "requested_scale": 0.86
+    },
+    {
+      "row": 2,
+      "col": 6,
+      "before_bbox": [
+        28,
+        40,
+        163,
+        168
+      ],
+      "after_bbox": [
+        38,
+        49,
+        154,
+        159
+      ],
+      "before_size": [
+        135,
+        128
+      ],
+      "after_size": [
+        116,
+        110
+      ],
+      "requested_scale": 0.86
+    },
+    {
+      "row": 2,
+      "col": 7,
+      "before_bbox": [
+        28,
+        38,
+        163,
+        170
+      ],
+      "after_bbox": [
+        38,
+        47,
+        154,
+        161
+      ],
+      "before_size": [
+        135,
+        132
+      ],
+      "after_size": [
+        116,
+        114
+      ],
+      "requested_scale": 0.86
+    }
+  ]
+}
